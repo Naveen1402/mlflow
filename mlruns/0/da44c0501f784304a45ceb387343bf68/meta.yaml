@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mac/PycharmProjects/ai4i2020_mlflow/ml/mlruns/0/da44c0501f784304a45ceb387343bf68/artifacts
+end_time: 1631732565250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: da44c0501f784304a45ceb387343bf68
+run_uuid: da44c0501f784304a45ceb387343bf68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631732547867
+status: 3
+tags: []
+user_id: mac

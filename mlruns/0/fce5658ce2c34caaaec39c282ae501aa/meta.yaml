@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/fce5658ce2c34caaaec39c282ae501aa/artifacts
+end_time: 1631816347343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fce5658ce2c34caaaec39c282ae501aa
+run_uuid: fce5658ce2c34caaaec39c282ae501aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631816301730
+status: 3
+tags: []
+user_id: mac
