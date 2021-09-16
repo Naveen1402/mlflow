@@ -90,7 +90,7 @@ with mlflow.start_run():
     mlflow.log_metric("r2", r2)
     mlflow.log_metric("mae", mae)
 
-    tracking_url_type_store = urlparse(mlflow.get_tracking_uri("http://127.0.0.1:8880")).scheme
+    tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
 
     # Model registry does not work with file store
     if tracking_url_type_store != "file":
